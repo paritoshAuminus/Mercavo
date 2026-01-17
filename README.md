@@ -31,6 +31,8 @@ Think of it as:
 
 This is **perfect** for backend interviews.
 
+**NOTE:** Use `react-flow` library to create flow charts (concept diagrams)
+
 ---
 
 ### Core concepts (simple)
