@@ -5,7 +5,7 @@ from .views import MeView
 
 urlpatterns = [
     # POST---------------------------------------------
-    path('register/', ),
+    path('register/', views.register),
     path('login/', TokenObtainPairView.as_view()),
     path('token/refresh/', TokenRefreshView.as_view()),
     # GET/PATCH----------------------------------------
